@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on www.antoniofkim.com
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: memphis2coder@gmail.com
+- 🤔 I’m looking for help with my first job in tech
