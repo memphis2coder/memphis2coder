@@ -1,6 +1,6 @@
 ### Hi there, I'm Antonio! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 	😄 Join me on my quest to learn how to code.  
+- 	😄 Join me on my coding journey. 
 
 <!--
 **memphis2coder/memphis2coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
